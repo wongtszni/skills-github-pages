@@ -1,4 +1,5 @@
-<h1>Hello!<h1>
+# Hello!
+
 ---
 title: Welcome to my blog
 ---
